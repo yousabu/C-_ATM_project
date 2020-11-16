@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590609886 source:c:\users\youssef shaban\desktop\atm c++ project\atm project\insertaion\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

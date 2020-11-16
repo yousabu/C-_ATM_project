@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590615334 source:c:\users\youssef shaban\desktop\atm c++ project\atm project\totio\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
